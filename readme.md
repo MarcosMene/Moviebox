@@ -38,4 +38,8 @@ With this app you can: 🎬
  
  </p>
 
- <hr>
+## Video
+
+<p>
+  <img src="./src/assets/githubimages/moviebox.gif" width="100" style="margin:20px"/>
+</p>
