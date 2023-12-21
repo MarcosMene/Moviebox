@@ -39,4 +39,3 @@ With this app you can: 🎬
  </p>
 
  <hr>
-# Moviebox
